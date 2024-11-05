@@ -1,0 +1,12 @@
+python-dotenv
+langchain==0.1.19
+langchain-openai==0.1.6 #0.1.6 previous version
+langchain_community==0.0.38
+streamlit
+fastapi
+uvicorn[standard]
+gunicorn
+openai==1.50.0
+boto3
+pdfplumber
+chromadb
